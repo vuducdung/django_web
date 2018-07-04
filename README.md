@@ -1,2 +1,2 @@
 # django_web
-- python managy.py runserver
+- python manage.py runserver
